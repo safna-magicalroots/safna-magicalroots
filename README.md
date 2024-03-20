@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @safna-magicalroots
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Masters in Data Analytics 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @safna-farsana
+- 👀 I’m interested in gaming, reading and writing
+- 🌱 I’m currently learning Masters in Computer Science with specialization in Geospatial Analytics 
+- 💞️ I’m looking to collaborate on the fields in gis and remote sensing
 - 📫 How to reach me safnafarsana5908@gmail.com 
 
 <!---
