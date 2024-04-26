@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safna-farsana
 - 👀 I’m interested in gaming, reading and writing
-- 🌱 I’m currently learning Masters in Computer Science with specialization in Geospatial Analytics 
+- 🌱 I’m currently learning Masters in Geospatial Analysis Training 
 - 💞️ I’m looking to collaborate on the fields in gis and remote sensing
 - 📫 How to reach me safnafarsana5908@gmail.com 
 
